@@ -42,3 +42,6 @@ Our dataset is from the UCI Machine Learning webpage: https://archive.ics.uci.ed
 - **nr.employed:** number of employees - quarterly indicator (numeric)
 
 ## Repsoitory Structure
+- **Data Folder**- Contains the raw data .csv corresponding file next .txt document.
+- **Erdos_Project** - Contains .ipynb files for data exploration, creating and testing files, and data visualizations.
+- **Presentation** - Contains the slide deck for the presentation of our findings and recommendations.
